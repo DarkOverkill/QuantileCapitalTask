@@ -1,0 +1,21 @@
+﻿Build started 02.07.2015 22:53:23.
+     1>Project "D:\Git\QuantileCapitalTestTask\Task\Task.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Employee.cpp FixedWageEmployee.cpp Main.cpp UnFixedWageEmployee.cpp
+         UnFixedWageEmployee.cpp
+         Main.cpp
+         FixedWageEmployee.cpp
+         Employee.cpp
+         Generating Code...
+     1>d:\git\quantilecapitaltesttask\task\main.cpp(116): warning C4715: 'SortBySalary' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Git\QuantileCapitalTestTask\Debug\Task.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Git\QuantileCapitalTestTask\Debug\Task.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Git\QuantileCapitalTestTask\Debug\Task.lib" /MACHINE:X86 Debug\Employee.obj
+         Debug\FixedWageEmployee.obj
+         Debug\Main.obj
+         Debug\UnFixedWageEmployee.obj
+         Task.vcxproj -> D:\Git\QuantileCapitalTestTask\Debug\Task.exe
+     1>Done Building Project "D:\Git\QuantileCapitalTestTask\Task\Task.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.88

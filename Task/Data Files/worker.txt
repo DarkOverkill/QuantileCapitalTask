@@ -1,0 +1,10 @@
+John	5600	1
+Bill	7300	1
+Kate	8	0
+Jane	8150	1
+Alex	11	0
+Mary	25	0
+Max	5500	1
+Ted	18	0
+Bob	35	0
+Lilu	5500	1	
